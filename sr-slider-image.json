@@ -1,1 +1,32 @@
-
+[
+  {
+    "link": "#",
+    "image": "https://raw.githubusercontent.com/srlearning-hub/app-api/refs/heads/main/image/slide01.jpeg",
+    "alt": "Batch 1",
+    "type":"_blank"
+  },
+  {
+    "link": "#",
+    "image": "https://raw.githubusercontent.com/srlearning-hub/app-api/refs/heads/main/image/slide02.jpeg",
+    "alt": "Batch 2",
+    "type":"_blank"
+  },
+  {
+    "link": "#",
+    "image": "https://raw.githubusercontent.com/srlearning-hub/app-api/refs/heads/main/image/slide03.jpeg",
+    "alt": "Batch 3",
+    "type":"_blank"
+  },
+  {
+    "link": "#",
+    "image": "https://raw.githubusercontent.com/srlearning-hub/app-api/refs/heads/main/image/slide04.jpeg",
+    "alt": "Batch 4",
+    "type":"_blank"
+  },
+  {
+    "link": "#",
+    "image": "https://raw.githubusercontent.com/srlearning-hub/app-api/refs/heads/main/image/slide05.jpeg",
+    "alt": "Batch 5",
+    "type":"_blank"
+  }
+]
